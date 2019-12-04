@@ -2,7 +2,7 @@
 
 fsdfdsf
 
-<<<<<<< HEAD
+
 fdsgfggfsgfdd 
 
 dsafsd 
@@ -16,4 +16,4 @@ fdsgf
 ‘
 
 激活工具韩国锦湖
->>>>>>> 123
+
