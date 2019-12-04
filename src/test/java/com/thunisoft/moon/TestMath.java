@@ -5,7 +5,7 @@ import org.junit.Test;
 public class TestMath {
 
 	/**
-	 * 
+	 * 测试方法
 	 * 
 	 * @Author wangjiafeng
 	 * @version v1.0
