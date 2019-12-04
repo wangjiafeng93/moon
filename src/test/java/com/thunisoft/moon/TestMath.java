@@ -4,7 +4,13 @@ import org.junit.Test;
 
 public class TestMath {
 
-	
+	/**
+	 * 
+	 * 
+	 * @Author wangjiafeng
+	 * @version v1.0
+	 * @since 2019-12-04
+	 **/
 	public void test1() {
 		long l = (long)60 * 100000000;
 		System.out.println(l);
