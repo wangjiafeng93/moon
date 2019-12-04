@@ -16,6 +16,13 @@ public class TestMath {
 		System.out.println(l);
 	}
 	
+	/*
+	 * 
+	 *
+	 * @Author wangjiafeng
+	 * @version v1.0
+	 * @since 下午 14:00 2019-12-04
+	 */
 	@Test
 	public void test2() {
 		String link = "http://www.bj.pro/newiweb/minfo/view.jsp?DMKID=211&ZLMBH=15&XXBH={XXBH}";
